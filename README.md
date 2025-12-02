@@ -18,21 +18,20 @@ A fully interactive Java Swing–based Tic Tac Toe game featuring:
 
 - Clean object-oriented structure
 
-🎮 How to Run
+## 🎮 How to Run
 
 1. Clone the repo:
 
 git clone https://github.com/daniyalahmad45/TicTacToe-Game.git
 
-2. Open the folder in VS Code or IntelliJ
+2. Open the folder in **VS Code** or **IntelliJ**
 
 3. Compile and run:
 
-javac Project2Runner.java
+`javac Project2Runner.java`  
+`java Project2Runner`
 
-java Project2Runner
-
-⭐ Features
+## ⭐ Features
 
 - Fully mouse-controlled gameplay
 
@@ -50,7 +49,7 @@ java Project2Runner
 
 - Symbol selection dialog (Choose X or O)
 
-🧠 Tech Used
+## 🧠 Tech Used
 
 - Java
 
@@ -64,6 +63,6 @@ java Project2Runner
 
 - Timers for animation
 
-📌 File Structure
+## 📌 File Structure
 
-Project2Runner.java   # Contains game logic, UI, rendering, AI, and event listeners
+Project2Runner.java # Contains game logic, UI, rendering, AI, and event listeners
